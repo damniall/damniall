@@ -60,6 +60,7 @@ I'm a developer passionate about crafting efficient, scalable software — from 
 ## Get In Touch
 
 [![Email](https://img.shields.io/badge/Email-mfdbmaa@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mfdbmaa@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0133673776-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/60133673776)
 [![GitHub](https://img.shields.io/badge/GitHub-damniall-181717?style=flat&logo=github&logoColor=white)](https://github.com/damniall)
 
 ---
@@ -69,4 +70,6 @@ I'm a developer passionate about crafting efficient, scalable software — from 
 *"First, solve the problem. Then, write the code."*
 
 </div>
+
+
 
