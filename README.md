@@ -53,7 +53,7 @@ I'm a developer passionate about crafting efficient, scalable software — from 
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔗 **[klinikprodental.com](#)** | Brief description of what it does and the problem it solves | Laravel · MySQL |
+| 🔗 **[klinikprodental.com](#)** | Clinic Management System | Laravel · MySQL |
 
 
 
